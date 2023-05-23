@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42922f8f8ac046fc879c337ff0d2b52d, type: 3}
+  m_Name: Aim Easy Settings
+  m_EditorClassIdentifier: 
+  <HeadquartersPercent>k__BackingField: 5
+  <BuildingPercent>k__BackingField: 95
+  <Chance>k__BackingField: 5

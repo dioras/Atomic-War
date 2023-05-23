@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 168764e156064b42a8ca3c701e954f44
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - clouds: {instanceID: 0}
+  - buildPoints: {instanceID: 0}
+  - playerMaterial: {fileID: 2100000, guid: a48bb8e5f719e7c4da3c8991ec715f88, type: 2}
+  - playerMaterial_border: {fileID: 2100000, guid: fc56deb74f05d3b45943a4fdd323975a,
+      type: 2}
+  - enemyMaterial: {fileID: 2100000, guid: 89aeb493ed06d5842a8136ab665a5ca6, type: 2}
+  - enemyMaterial_border: {fileID: 2100000, guid: e80349d17a3343f4b8a17bb8f7a536f9,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
